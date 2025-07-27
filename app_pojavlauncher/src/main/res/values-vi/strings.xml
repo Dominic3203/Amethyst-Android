@@ -395,11 +395,18 @@
     <string name="mg_renderer_angle">Dùng ANGLE làm trình điều khiển</string>
     <string name="mg_renderer_multidraw">Chế độ giả lập Multidraw</string>
     <string name="mg_renderer_title_errorSetting">Lọc lỗi</string>
+    <string name="mg_renderer_title_timerQueryExt">Không dùng GPU trong menu F3</string>
+    <string name="mg_renderer_summary_timerQueryExt">Sửa lỗi thoát đột ngột khi mở menu F3 trên một số thiết bị Mali</string>
+    <string name="preference_ANGLE_only">Tùy chọn dành cho ANGLE</string>
+    <string name="mg_renderer_title_angleDepthClearFixMode">Sửa lỗi tay và vật phẩm cầm trên tay xuyên qua khối</string>
+    <string name="mg_renderer_summary_angleDepthClearFixMode">Chỉ áp dụng cho ANGLE, có thể ảnh hưởng đến hiệu năng.</string>
     <string name="preference_experimental_title">Tính năng thử nghiệm</string>
     <string name="mg_renderer_title_gl43exts">Truyền phần mở rộng OpenGL 4.3 thử nghiệm</string>
     <string name="mg_renderer_summary_gl43exts">Có thể giúp giảm tình trạng lỗi mod. Tính năng cũng có thể gây thoát đột ngột, hãy tắt nếu không cần thiết.</string>
     <string name="mg_renderer_title_computeShaderext">Truyền phần mở rộng tính toán shader thử nghiệm</string>
     <string name="mg_renderer_summary_computeShaderext">Có thể giúp giảm hiện tượng lỗi trên các gói shader. Tính năng cũng có thể gây thoát đột ngột, hãy tắt nếu không cần thiết.</string>
+    <string name="mg_renderer_title_multidrawCompute">Mô phỏng tính toán Multidraw</string>
+    <string name="mg_renderer_summary_multidrawCompute">Dùng shader tính toán để mô phỏng Multidraw</string>
     <string name="app_short_name">Amethyst</string>
     <string name="demo_versions_supported">Tài khoản chơi thử chỉ hỗ trợ chạy phiên bản từ 1.3.1 trở lên</string>
     <string name="demo_unsupported">Không hỗ trợ chế độ chơi thử</string>
@@ -412,4 +419,9 @@
     <string name="modloader_dl_install_neoforge">Tạo hồ sơ NeoForge</string>
     <string name="neoforge_dl_select_version">Chọn phiên bản NeoForge</string>
     <string name="neoforge_dl_no_installer">Xin lỗi, phiên bản NeoForge này không có trình cài đặt, vì vậy không được hỗ trợ.</string>
+    <string name="preference_category_touchcontroller_settings">Cài đặt TouchController</string>
+    <string name="preference_force_enable_touchcontroller_title">Buộc kích hoạt TouchController</string>
+    <string name="preference_force_enable_touchcontroller_description">Buộc kích hoạt tích hợp TouchController, ngay cả khi chưa cài mod này.</string>
+    <string name="preference_touchcontroller_vibrate_length_title">Thời lượng rung TouchController</string>
+    <string name="preference_touchcontroller_vibrate_length_description">Định thời lượng rung khi sử dụng TouchController.</string>
 </resources>
