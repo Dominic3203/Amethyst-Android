@@ -49,7 +49,6 @@
     <string name="mcl_setting_title_renderer_settings">レンダラーの追加設定</string>
     <string name="mcl_setting_title_renderer_subtitle">レンダラー固有の設定</string>
     <string name="mcl_setting_category_renderer">レンダラー</string>
-    <string name="mcl_setting_renderer_gles2_4">Holy GL4ES - (全バージョン対応、動作が軽い)</string>
     <string name="mcl_setting_veroption_release">正式</string>
     <string name="mcl_setting_veroption_snapshot">スナップショット</string>
     <string name="mcl_setting_veroption_oldalpha">Alpha 版</string>
