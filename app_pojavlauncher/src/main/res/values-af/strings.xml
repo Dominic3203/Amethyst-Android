@@ -42,7 +42,6 @@
     <string name="mcl_setting_title_mousescale">Größe der Maus</string>
     <string name="mcl_setting_subtitle_mousescale">Größe der virtuellen Maus ändern.</string>
     <string name="mcl_setting_subtitle_javaargs">Achtung! Das Verändern dieser Argumente ohne Fachwissen kann zu Abstürzen führen.</string>
-    <string name="mcl_setting_renderer_gles2_4">Holy GL4ES - (alle Versionen, schnell)</string>
     <string name="mcl_setting_renderer_vulkan_zink">Zink (Vulkan) - (alle Versionen, mittel)</string>
     <string name="mcl_setting_veroption_release">Vollversionen</string>
     <string name="mcl_setting_java_sandbox">.jar in einer Sandbox ausführen</string>
