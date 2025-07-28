@@ -51,7 +51,6 @@
     <string name="mcl_setting_title_renderer_settings">Pengaturan Tambahan Renderer</string>
     <string name="mcl_setting_title_renderer_subtitle">Pengaturan Khusus untuk Renderer</string>
     <string name="mcl_setting_category_renderer">Renderer</string>
-    <string name="mcl_setting_renderer_gles2_4">Holy GL4ES - (semua versi, cepat)</string>
     <string name="mcl_setting_renderer_vulkan_zink">Zink (Vulkan) - (semua versi, menengah)</string>
     <string name="mcl_setting_renderer_mobileglues">MobileGlues (OpenGL ES) - (1.17+ saja, cepat)</string>
     <string name="mcl_setting_renderer_ltw">LTW (OpenGL ES 3) - hanya untuk 1.17+</string>
