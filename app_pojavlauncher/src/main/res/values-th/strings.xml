@@ -45,7 +45,6 @@
     <string name="mcl_setting_subtitle_mousescale">เปลี่ยนขนาดของเมาส์เสมือน</string>
     <string name="mcl_setting_subtitle_javaargs">ระวัง อาจทำให้เกมพังได้หากแก้ไขโดยขาดความรู้</string>
     <string name="mcl_setting_category_renderer">การแสดงผล</string>
-    <string name="mcl_setting_renderer_gles2_4">Holy GL4ES - (รองรับทุกเวอร์ชั่น, เร็ว)</string>
     <string name="mcl_setting_renderer_vulkan_zink">Zink (Vulkan) - (รองรับทุกเวอร์ชั่น, กลาง)</string>
     <string name="mcl_setting_veroption_release">ปล่อย</string>
     <string name="mcl_setting_veroption_snapshot">ภาพรวม</string>
