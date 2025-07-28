@@ -54,7 +54,6 @@ mcl_indítás_letöltés_folyamatban"</string>
     <string name="mcl_setting_title_renderer_settings">További renderelő beállítások</string>
     <string name="mcl_setting_title_renderer_subtitle">Renderelő-specifikus beállítások</string>
     <string name="mcl_setting_category_renderer">Renderelő</string>
-    <string name="mcl_setting_renderer_gles2_4">Holy GL4ES - (összes verzió, gyors)</string>
     <string name="mcl_setting_renderer_vulkan_zink">Zink (Vulkan) - (összes verzió, közepes)</string>
     <string name="mcl_setting_renderer_mobileglues">MobileGlues (OpenGL ES) - 1.17+ vagy újabb, gyors</string>
     <string name="mcl_setting_renderer_ltw">LTW (OpenGL ES 3) - 1.17+ vagy újabb</string>
