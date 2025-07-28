@@ -36,7 +36,6 @@
     <string name="mcl_setting_title_mousescale">Курсор масштабы</string>
     <string name="mcl_setting_title_javaargs">JVM кушу аргументлары</string>
     <string name="mcl_setting_category_renderer">Күрсәткеч</string>
-    <string name="mcl_setting_renderer_gles2_4">Holy GL4ES - (барлык версияләр өчен, тиз)</string>
     <string name="mcl_setting_veroption_release">Чыгарылыш</string>
     <string name="mcl_setting_veroption_snapshot">Снапшотлар</string>
     <string name="mcl_setting_veroption_oldalpha">Иске альфа</string>
