@@ -46,7 +46,6 @@
     <string name="mcl_setting_subtitle_mousescale">Cambia la dimensione del mouse virtuale.</string>
     <string name="mcl_setting_title_javaargs">Argomenti di avvio della JVM</string>
     <string name="mcl_setting_subtitle_javaargs">Attenzione, il gioco potrebbe crashare se effettui modifiche senza sapere quello che fai.</string>
-    <string name="mcl_setting_renderer_gles2_4">Holy GL4ES - (Tutte le versioni, veloce)</string>
     <string name="mcl_setting_renderer_vulkan_zink">Zink (Vulkan) - (tutte le persone, med)</string>
     <string name="mcl_setting_renderer_ltw">LTW (OpenGL ES 3) - solo 1.17+</string>
     <string name="mcl_setting_veroption_release">Finale</string>
