@@ -51,7 +51,6 @@
     <string name="mcl_setting_title_renderer_settings">渲染器附加设置</string>
     <string name="mcl_setting_title_renderer_subtitle">渲染器特定设置</string>
     <string name="mcl_setting_category_renderer">渲染器</string>
-    <string name="mcl_setting_renderer_gles2_4">Holy GL4ES -（全版本可用，速度较快）</string>
     <string name="mcl_setting_renderer_vulkan_zink">Zink（Vulkan）-（全版本可用，速度中等）</string>
     <string name="mcl_setting_renderer_mobileglues">MobileGlues (OpenGL ES) - (仅限 1.17+，速度较快)</string>
     <string name="mcl_setting_renderer_ltw">LTW (OpenGL ES 3) - 仅限 1.17+</string>
