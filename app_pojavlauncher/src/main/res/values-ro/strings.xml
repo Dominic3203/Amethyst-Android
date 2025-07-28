@@ -38,7 +38,6 @@
     <string name="mcl_setting_title_javaargs">Argumente de lansare JVM</string>
     <string name="mcl_setting_subtitle_javaargs">Ai grijă, acest lucru poate face ca jocul să se oprească dacă este modificat fără cunoștințe.</string>
     <string name="mcl_setting_category_renderer">Randator</string>
-    <string name="mcl_setting_renderer_gles2_4">Sfântul GL4ES - (toate versiunile, rapid)</string>
     <string name="mcl_setting_veroption_release">Lansat oficial</string>
     <string name="mcl_setting_veroption_snapshot">Lansat pentru testare</string>
     <string name="mcl_setting_veroption_oldalpha">Alpha-vechi</string>
