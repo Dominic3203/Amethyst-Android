@@ -419,4 +419,9 @@
     <string name="modloader_dl_install_neoforge">Создать профиль Neoforge</string>
     <string name="neoforge_dl_select_version">Выберите версию NeoForge</string>
     <string name="neoforge_dl_no_installer">К сожалению, у этой версии NeoForge отсутствует поддерживаемый установщик.</string>
+    <string name="preference_category_touchcontroller_settings">Настройки сенсорного контроллера</string>
+    <string name="preference_force_enable_touchcontroller_title">Принудительное включение сенсорного контроллера</string>
+    <string name="preference_force_enable_touchcontroller_description">Принудительно включает интеграцию сенсорного контроллера, даже если файл мода не найден.</string>
+    <string name="preference_touchcontroller_vibrate_length_title">Длина вибрации сенсорного контроллера</string>
+    <string name="preference_touchcontroller_vibrate_length_description">Установите продолжительность вибрации при использовании сенсорного контроллера.</string>
 </resources>
