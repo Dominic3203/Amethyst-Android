@@ -46,7 +46,6 @@
     <string name="mcl_setting_title_javaargs">Arguments de lancement JVM</string>
     <string name="mcl_setting_subtitle_javaargs">Attention, cela peut faire planter le jeu si ce paramètre est modifié sans connaissance.</string>
     <string name="mcl_setting_category_renderer">Moteur de rendu</string>
-    <string name="mcl_setting_renderer_gles2_4">Holy GL4ES - (toutes les versions, rapide)</string>
     <string name="mcl_setting_renderer_vulkan_zink">Zink (Vulkan) - (toutes les versions, mid)</string>
     <string name="mcl_setting_renderer_ltw">LTW (OpenGL ES 3) - 1.17+ uniquement</string>
     <string name="mcl_setting_veroption_release">Version officielle</string>
