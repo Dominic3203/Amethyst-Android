@@ -51,7 +51,6 @@
     <string name="mcl_setting_title_renderer_settings">הגדרות רינדור נוספות</string>
     <string name="mcl_setting_title_renderer_subtitle">הגדרות ספציפיות לרינדור</string>
     <string name="mcl_setting_category_renderer">רינדור</string>
-    <string name="mcl_setting_renderer_gles2_4">Holy GL4ES - (כל הגרסאות, מהיר)</string>
     <string name="mcl_setting_renderer_vulkan_zink">Zink (Vulkan) - (כל הגרסאות, בינוני)</string>
     <string name="mcl_setting_renderer_mobileglues">MobileGlues (OpenGL ES) - (גרסה 1.17+ בלבד, מהיר)</string>
     <string name="mcl_setting_renderer_ltw">LTW (OpenGL ES 3) - גרסה 1.17+ בלבד</string>
