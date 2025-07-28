@@ -39,7 +39,6 @@
     <string name="mcl_setting_title_buttonscale">Pagkontrol sa pag-scale ng mga pindutan</string>
     <string name="mcl_setting_title_mousescale">Pag-scale ng mouse</string>
     <string name="mcl_setting_subtitle_javaargs">Mag-ingat, maaari itong mag-crash ng laro kung babaguhin nang walang kaalaman.</string>
-    <string name="mcl_setting_renderer_gles2_4">Holy Gl4ES - (lahat ng bersyon, mabilis)</string>
     <string name="mcl_setting_veroption_snapshot">Snapshot</string>
     <string name="mcl_setting_veroption_oldalpha">Lumang-alpha</string>
     <string name="mcl_setting_veroption_oldbeta">Lumang-beta</string>
