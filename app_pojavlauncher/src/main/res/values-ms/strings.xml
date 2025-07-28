@@ -51,7 +51,6 @@
     <string name="mcl_setting_title_renderer_settings">Tetapan Pemapar Tambahan</string>
     <string name="mcl_setting_title_renderer_subtitle">Tetapan khusus pemapar</string>
     <string name="mcl_setting_category_renderer">Pemapar</string>
-    <string name="mcl_setting_renderer_gles2_4">Holy GL4ES - (semua versi, pantas)</string>
     <string name="mcl_setting_renderer_vulkan_zink">Zink (Vulkan) - (semua versi, sederhana)</string>
     <string name="mcl_setting_renderer_mobileglues">MobileGlues (OpenGL ES) - (1.17+ sahaja, pantas)</string>
     <string name="mcl_setting_renderer_ltw">LTW (OpenGL ES 3) - 1.17+ sahaja</string>
