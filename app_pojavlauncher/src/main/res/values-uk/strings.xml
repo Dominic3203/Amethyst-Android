@@ -51,7 +51,6 @@
     <string name="mcl_setting_title_renderer_settings">Додаткові параметри промальовування</string>
     <string name="mcl_setting_title_renderer_subtitle">Спеціальні параметри промальовування</string>
     <string name="mcl_setting_category_renderer">Промальовування</string>
-    <string name="mcl_setting_renderer_gles2_4">Holy GL4ES — усі версії, швидкий</string>
     <string name="mcl_setting_renderer_vulkan_zink">Zink (Vulkan) — усі версії, посередній</string>
     <string name="mcl_setting_renderer_mobileglues">MobileGlues (OpenGL ES) — лише 1.17+, швидкий</string>
     <string name="mcl_setting_renderer_ltw">LTW (OpenGL ES 3) — лише 1.17+</string>
