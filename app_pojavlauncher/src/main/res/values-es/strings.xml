@@ -77,7 +77,13 @@
     <string name="mcn_check_fail_vulkan_support">¡El renderizador Zink (Vulkan) no es compatible con este dispositivo!</string>
     <!-- MainActivity: Control buttons -->
     <string name="control_secondary">Seg</string>
+    <string name="control_up">▲</string>
+    <string name="control_left">◀</string>
+    <string name="control_right">▶</string>
+    <string name="control_down">▼</string>
+    <string name="control_jump">⬛</string>
     <string name="control_thirdperson">3ra</string>
+    <string name="control_listplayers">Tab</string>
     <string name="control_mouse">Ratón</string>
     <string name="control_mouseoff">Ratón: Apagado</string>
     <string name="control_mouseon">Ratón: Encendido </string>
@@ -127,6 +133,7 @@
     <string name="mcl_disable_swap_hand_subtitle">Deshabilita el doble toque sobre un item de la hotbar para cambiarlo a la mano secundaria.</string>
     <string name="mcl_setting_title_mousespeed">Velocidad del ratón</string>
     <string name="mcl_setting_subtitle_mousespeed">Cambia la velocidad del ratón virtual.</string>
+    <string name="mcl_setting_title_grab_mouse">Usar cursor virtual</string>
     <string name="customctrl_passthru">Passthrough del ratón</string>
     <string name="customctrl_swipeable">Deslizable</string>
     <string name="customctrl_absolute_tracking">Seguimiento absoluto del dedo</string>
@@ -186,6 +193,7 @@
     <string name="pedit_renderer">Renderizador</string>
     <string name="arc_capes_title">Capas de Comestica</string>
     <string name="arc_capes_desc">Activa las capas de Cosmetica (anteriormente Arc). Para más información ve a esta página https://cosmetica.cc. Necesitas Optifine.</string>
+    <string name="notif_channel_name">General</string>
     <string name="lazy_service_default_title">Servicio de primer plano de Amethyst</string>
     <string name="mcl_setting_veroption_installed">Instalada</string>
     <string name="use_global_default">(Usar predeterminado global)</string>
@@ -208,6 +216,7 @@
     <string name="xerr_child">Su cuenta es una cuenta de menor y necesita ser añadida a una Familia para poder iniciar sesión.</string>
     <string name="minecraft_not_owned">Parece que esta cuenta no tiene un perfil Minecraft. Si tienes el Xbox Game Pass, por favor inicia sesión en https://minecraft.net/ y configurarlo.</string>
     <string name="xerr_not_available">Xbox Live no está disponible en su país</string>
+    <string name="preference_enable_gyro_title">Activar controles de giroscopio</string>
     <string name="preference_enable_gyro_description">Activar esto te permitirá mover la cámara al girar tu teléfono.</string>
     <string name="preference_gyro_sensitivity_description">Ajusta la sensibilidad del giroscopio.</string>
     <string name="toast_turn_on_gyro">¡Primero debes activar los controles por giroscopio para usar esto!</string>
@@ -220,11 +229,14 @@
     <string name="create_profile">Crear un nuevo perfil</string>
     <string name="preference_shader_dump_title">Activar dumpeo de shaders</string>
     <string name="preference_shader_dump_description">Registra shaders compilados (sic).</string>
+    <string name="percent_format">%d%%</string>
+    <string name="millisecond_format">%d ms</string>
     <string name="customctrl_editor_exit_title">¿Vas a salir?</string>
     <string name="customctrl_editor_exit_msg">¿Estás seguro de que quieres salir?</string>
     <string name="customctrl_editor_exit">Salir del editor</string>
     <string name="global_save_and_exit">Guardar y salir</string>
     <string name="global_yes">Si</string>
+    <string name="global_no">No</string>
     <string name="preference_controller_map_wiped">La configuración del control fue borrada.</string>
     <string name="preference_category_controller_settings">Ajustes del control</string>
     <string name="preference_wipe_controller_title">Restablecer mapeo del control</string>
@@ -331,10 +343,14 @@
     <string name="customctrl_visibility_title">Visibilidad</string>
     <string name="preference_remap_controller_title">Cambiar configuración de teclas del controlador</string>
     <string name="preference_remap_controller_description">Te permite modificar las teclas del teclado asignadas a cada botón del controlador</string>
+    <string name="mcl_button_discord">Discord</string>
     <string name="ltw_render_distance_warning_msg">Su GPU no es capaz de renderizar más de 7 de distancia sin usar Sodium o mods similares. La distancia de renderizado será reducido automáticamente cuando haga click en \"OK\".</string>
     <string name="mcl_button_open_directory">Abrir directorio del juego</string>
     <string name="local_login_bad_username_title">Nombre de usuario inadecuado</string>
     <string name="local_login_bad_username_text">El nombre de usuario debe de ser entre 3 a 16 caracteres, y solo contener letras latinas, números de 0 a 9 y guiones bajos.</string>
     <string name="quick_setting_title">Configuraciones rápidas</string>
     <string name="preference_experimental_title">Cosas Experimentales</string>
+    <string name="modloader_dl_install_neoforge">Crear perfil de Neoforge</string>
+    <string name="neoforge_dl_select_version">Seleccionar versión de NeoForge</string>
+    <string name="neoforge_dl_no_installer">Lo sentimos, pero esta versión de NeoForge no tiene un instalador, lo cual aún no está soportado.</string>
 </resources>
