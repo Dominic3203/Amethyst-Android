@@ -426,4 +426,5 @@
     <string name="preference_force_enable_touchcontroller_description">强制启用触屏控制器集成，即使未找到 Mod 文件。</string>
     <string name="preference_touchcontroller_vibrate_length_title">触屏控制器振动时长</string>
     <string name="preference_touchcontroller_vibrate_length_description">设置使用触屏控制器时的振动时长。</string>
+    <string name="error_vanilla_json_corrupt">原版 JSON 似乎已损坏。请在 GitHub 或 Discord 上提交错误报告。</string>
 </resources>
