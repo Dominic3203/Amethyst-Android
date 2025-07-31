@@ -146,6 +146,8 @@
     <string name="mcl_disable_swap_hand_subtitle">禁用双击物品栏上的物品来将其同副手的物品交换。</string>
     <string name="mcl_setting_title_mousespeed">鼠标移动速度</string>
     <string name="mcl_setting_subtitle_mousespeed">修改虚拟鼠标的移动速度。</string>
+    <string name="mcl_setting_title_grab_mouse">使用虚拟光标</string>
+    <string name="mcl_setting_subtitle_grab_mouse">确保光标停留在游戏内。防止鼠标点击触摸控制布局。</string>
     <string name="customctrl_passthru">穿透点击</string>
     <string name="customctrl_swipeable">可滑动</string>
     <string name="customctrl_forward_lock">前进锁定</string>
