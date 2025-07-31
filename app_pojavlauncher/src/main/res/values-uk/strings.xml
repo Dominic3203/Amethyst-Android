@@ -146,6 +146,8 @@
     <string name="mcl_disable_swap_hand_subtitle">Вимикає подвійне натискання на предмет швидкої панелі для перемикання його у другій руці.</string>
     <string name="mcl_setting_title_mousespeed">Чутливість миші</string>
     <string name="mcl_setting_subtitle_mousespeed">Змінює чутливість віртуальної миші.</string>
+    <string name="mcl_setting_title_grab_mouse">Використовувати віртуальний курсор</string>
+    <string name="mcl_setting_subtitle_grab_mouse">Гарантує, що курсор залишається в грі. Запобігає натисканню мишею макета сенсорного керування.</string>
     <string name="customctrl_passthru">Курсор миші</string>
     <string name="customctrl_swipeable">Можна перегорнути</string>
     <string name="customctrl_forward_lock">Передній замок</string>
@@ -424,4 +426,5 @@
     <string name="preference_force_enable_touchcontroller_description">Інтеграція примусового увімкнення TouchController, навіть якщо файл мода не знайдено.</string>
     <string name="preference_touchcontroller_vibrate_length_title">Тривалість вібрації TouchController</string>
     <string name="preference_touchcontroller_vibrate_length_description">Установлює тривалість вібрації під час використання TouchController.</string>
+    <string name="error_vanilla_json_corrupt">Усталений json, здається, пошкоджено. Будь ласка, надішліть звіт про помилку на github або discord.</string>
 </resources>
