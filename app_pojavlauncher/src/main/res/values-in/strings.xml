@@ -145,6 +145,8 @@
     <string name="mcl_disable_swap_hand_subtitle">Nonaktifkan gestur ketuk dua kali pada item hotbar untuk menukarkannya di tangan kedua.</string>
     <string name="mcl_setting_title_mousespeed">Kecepatan Mouse</string>
     <string name="mcl_setting_subtitle_mousespeed">Ubah kecepatan mouse virtual.</string>
+    <string name="mcl_setting_title_grab_mouse">Gunakan kursor virtual</string>
+    <string name="mcl_setting_subtitle_grab_mouse">Memastikan kursor tetap berada di dalam game. Mencegah mouse mengklik tata letak kontrol sentuh.</string>
     <string name="customctrl_passthru">Mouse pass-thru</string>
     <string name="customctrl_swipeable">Bisa digesek</string>
     <string name="customctrl_forward_lock">Kunci ke depan</string>
@@ -423,4 +425,5 @@
     <string name="preference_force_enable_touchcontroller_description">Selalu aktifkan integrasi kontrol sentuh, meskipun file mod tidak ditemukan.</string>
     <string name="preference_touchcontroller_vibrate_length_title">Durasi getaran kontrol sentuh</string>
     <string name="preference_touchcontroller_vibrate_length_description">Atur durasi getaran saat menggunakan kontrol sentuh.</string>
+    <string name="error_vanilla_json_corrupt">Vanilla json seems to be corrupt. Please send a bug report on github or discord.</string>
 </resources>
