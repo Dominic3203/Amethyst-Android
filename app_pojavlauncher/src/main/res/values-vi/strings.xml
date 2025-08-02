@@ -51,6 +51,7 @@
     <string name="mcl_setting_title_renderer_settings">Cài đặt trình kết xuất bổ sung</string>
     <string name="mcl_setting_title_renderer_subtitle">Cài đặt riêng của trình kết xuất</string>
     <string name="mcl_setting_category_renderer">Trình kết xuất</string>
+    <string name="mcl_setting_renderer_gles2_4">Holy GL4ES - (chỉ 1.21.4 trở xuống, nhanh)</string>
     <string name="mcl_setting_renderer_vulkan_zink">Zink (Vulkan) - (tất cả phiên bản, trung bình)</string>
     <string name="mcl_setting_renderer_mobileglues">MobileGlues (OpenGL ES) - (chỉ 1.17 trở lên, nhanh)</string>
     <string name="mcl_setting_renderer_ltw">LTW (OpenGL ES 3) - chỉ 1.17 trở lên</string>
@@ -145,6 +146,8 @@
     <string name="mcl_disable_swap_hand_subtitle">Tắt tính năng nhấn hai lần vào vật phẩm trong thanh nóng để hoán đổi sang tay phụ.</string>
     <string name="mcl_setting_title_mousespeed">Tốc độ chuột</string>
     <string name="mcl_setting_subtitle_mousespeed">Thay đổi tốc độ con trỏ chuột ảo.</string>
+    <string name="mcl_setting_title_grab_mouse">Dùng chuột ảo</string>
+    <string name="mcl_setting_subtitle_grab_mouse">Đảm bảo con trỏ chuột chỉ có tác dụng trong trò chơi. Ngăn con trỏ tương tác với bố cục điều khiển cảm ứng.</string>
     <string name="customctrl_passthru">Di chuyển chuột</string>
     <string name="customctrl_swipeable">Có thể vuốt</string>
     <string name="customctrl_forward_lock">Khóa tiến về trước</string>
@@ -423,4 +426,5 @@
     <string name="preference_force_enable_touchcontroller_description">Buộc kích hoạt tích hợp TouchController, ngay cả khi chưa cài mod này.</string>
     <string name="preference_touchcontroller_vibrate_length_title">Thời lượng rung TouchController</string>
     <string name="preference_touchcontroller_vibrate_length_description">Định thời lượng rung khi sử dụng TouchController.</string>
+    <string name="error_vanilla_json_corrupt">Tệp json gốc có vẻ đã bị hỏng. Vui lòng báo lỗi qua GitHub hoặc Discord.</string>
 </resources>
