@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
     <!-- App name part -->
-    <string name="app_name">Ametyst</string>
+    <string name="app_name">Amethyst</string>
     <!-- Action bar part -->
     <!-- Languages list part -->
     <!-- Login strings -->
     <string name="login_online_username_hint">Nazwa użytkownika</string>
     <string name="login_online_login_label">Zaloguj się</string>
     <!-- Hint -->
-    <string name="hint_control_mapping">"Dotknij ikony zębatki, aby otworzyć menu kontekstowe ⚙\nNaciśnij przycisk, aby dostosować: edytuj, zmień rozmiar, usuń lub zmień przypisanie klawiszy."</string>
+    <string name="hint_control_mapping">"Naciśnij ikonę koła zębatego w górnej części ekranu, aby otworzyć menu kontekstowe ⚙\nNaciśnij przycisk, aby dostosować: edytuj, zmień rozmiar, usuń lub zmień skróty klawiszowe."</string>
     <!-- Warnings -->
     <string name="warning_remove_account">To konto zostanie usunięte!</string>
     <!-- AlertDialog title -->
@@ -25,7 +25,7 @@
     <string name="toast_3">Exit</string>
     -->
     <!-- MCLauncherActivity: Tabs -->
-    <string name="mcl_tab_wiki">Instrukcja Obsługi</string>
+    <string name="mcl_tab_wiki">Wiki</string>
     <!-- MCLauncherActivity: Account status -->
     <!-- MCLauncherActivity: Strings -->
     <string name="mcl_launch_cleancache">Czyszczenie plików pamięci podręcznej</string>
@@ -39,7 +39,7 @@
     <string name="mcl_setting_title_ignore_notch">Ignoruj wcięcie</string>
     <string name="mcl_setting_subtitle_ignore_notch">Ignoruje wycięcie i rozszerza znajdujący się pod nim ekran. \nZapewnia bardziej wciągające wrażenia.</string>
     <string name="mcl_setting_title_resolution_scaler">Skalowanie rozdzielczości</string>
-    <string name="mcl_setting_subtitle_resolution_scaler">Pozwala na zmniejszenie rozdzielczości gry. 100% to pełna rozdzielczość.</string>
+    <string name="mcl_setting_subtitle_resolution_scaler">Pozwala na zmniejszenie rozdzielczości gry. 100% oznacza pełną roździelczość.</string>
     <string name="mcl_setting_title_longpresstrigger">Uruchom długie opóźnienie naciśnięcia</string>
     <string name="mcl_setting_subtitle_longpresstrigger">Zmień opóźnienie spustu długiego naciśnięcia w celu niszczenia bloków i upuszczania przedmiotów.</string>
     <string name="mcl_setting_title_buttonscale">Skalowanie przycisków sterujących</string>
@@ -51,26 +51,27 @@
     <string name="mcl_setting_title_renderer_settings">Dodatkowe ustawienia silnika renderującego</string>
     <string name="mcl_setting_title_renderer_subtitle">Ustawienia specyficzne dla silnika renderującego</string>
     <string name="mcl_setting_category_renderer">Silnik renderujący</string>
+    <string name="mcl_setting_renderer_gles2_4">Holy GL4ES - (tylko &lt;1.21.4, szybki)</string>
     <string name="mcl_setting_renderer_vulkan_zink">Zink (Vulkan) - (wszystkie wersje, średni)</string>
-    <string name="mcl_setting_renderer_mobileglues">MobileGlues (OpenGl ES) - (tylko 1.17+, szybki)</string>
+    <string name="mcl_setting_renderer_mobileglues">MobileGlues (OpenGL ES) - (tylko 1.17+, szybki)</string>
     <string name="mcl_setting_renderer_ltw">LTW (OpenGL ES 3) - tylko 1.17+</string>
     <string name="mcl_setting_veroption_release">Oficjalne wydanie</string>
     <string name="mcl_setting_veroption_snapshot">Wersja deweloperska</string>
     <string name="mcl_setting_veroption_oldalpha">Dawna Alpha</string>
     <string name="mcl_setting_veroption_oldbeta">Dawna Beta</string>
-    <string name="mcl_setting_java_sandbox">Wykonanie pliku .jar</string>
-    <string name="mcl_setting_java_sandbox_subtitle">Kontrola dostępności menedżera zabezpieczeń piaskownicy podczas uruchamiania instalatora .jar.</string>
-    <string name="mcl_version_clone">Klonuj</string>
+    <string name="mcl_setting_java_sandbox">Wykonanie pliku .jar w piaskownicy</string>
+    <string name="mcl_setting_java_sandbox_subtitle">Kontroluj dostępność menedżera zabezpieczeń piaskownicy podczas wykonywania pliku .jar.</string>
+    <string name="mcl_version_clone">Utwórz kopię</string>
     <!-- Global strings -->
     <string name="global_edit">Edytuj</string>
     <string name="global_error">Błąd</string>
     <string name="global_load">Wczytaj</string>
     <string name="global_name">Nazwa</string>
     <string name="global_remove">Usuń</string>
-    <string name="global_clone">Klonuj</string>
+    <string name="global_clone">Utwórz kopię</string>
     <string name="global_restart">Uruchom ponownie</string>
     <string name="global_save">Zapisz</string>
-    <string name="global_unpacking">Wypakowywanie %s</string>
+    <string name="global_unpacking">Rozpakowywanie %s</string>
     <string name="global_error_field_empty">To pole nie może być puste</string>
     <string name="global_waiting">Czekaj</string>
     <string name="global_select">Wybierz</string>
@@ -78,39 +79,39 @@
     <string name="global_default">Domyślny</string>
     <string name="global_off">Wyłączone</string>
     <!-- MainActivity: strings -->
-    <string name="mcn_exit_title">Aplikacja/gra zakończyła się błędem o kodzie %d, sprawdź latestlog.txt, aby uzyskać więcej informacji.</string>
-    <string name="mcn_signal_title">Aplikacja/gra zakończyła się błędem o kodzie %d, sprawdź plik latestlog.txt, aby uzyskać więcej informacji.</string>
+    <string name="mcn_exit_title">Aplikacja/gra została zakończona z błędem o kodzie %d. Więcej szczegółów znajdziesz w pliku latestlog.txt.</string>
+    <string name="mcn_signal_title">Aplikacja/gra została przerwana przez błąd krytyczny nr %d. Więcej szczegółów znajdziesz w pliku latestlog.txt.</string>
     <string name="mcn_exit_confirm">Czy na pewno chcesz wymusić zamknięcie?</string>
-    <string name="mcn_check_fail_vulkan_support">Renderer Zink (Vulkan) nie jest wspierany na tym urządzeniu!</string>
+    <string name="mcn_check_fail_vulkan_support">Silnik renderujący Zink (Vulkan) nie jest obsługiwany na tym urządzeniu!</string>
     <!-- MainActivity: Control buttons -->
     <string name="control_chat">Czat</string>
-    <string name="control_debug">Debug</string>
+    <string name="control_debug">Debugowanie</string>
     <string name="control_primary">LPM</string>
     <string name="control_secondary">PPM</string>
     <string name="control_shift">◇</string>
-    <string name="control_inventory">Ekw</string>
+    <string name="control_inventory">Ekw.</string>
     <string name="control_up">▲</string>
     <string name="control_left">◀</string>
     <string name="control_right">▶</string>
     <string name="control_down">▼</string>
     <string name="control_jump">⬛</string>
     <string name="control_thirdperson">Widok</string>
-    <string name="control_listplayers">Gracze</string>
+    <string name="control_listplayers">Tab</string>
     <string name="control_mouse">Mysz</string>
     <string name="control_mouseoff">Mysz: wyłączona</string>
     <string name="control_mouseon">Mysz: włączona </string>
     <!-- MainActivity: Menu advanced controls -->
     <string name="control_forceclose">Wymuś zamknięcie</string>
     <string name="control_viewout">Wyjście danych</string>
-    <string name="control_adebug">Wejście debugowania</string>
-    <string name="control_customkey">Wyślij własny klawisz</string>
+    <string name="control_adebug">Debugowanie danych wejściowych</string>
+    <string name="control_customkey">Wyślij własny kod klucza</string>
     <!-- ImportControlActivity Strings -->
     <string name="import_control_label">Importuj sterowanie</string>
     <string name="import_control_invalid_file">Nieprawidłowy lub uszkodzony plik</string>
     <string name="import_control_import_button">importuj sterowanie</string>
     <string name="import_control_verifying_file">Plik jest weryfikowany. Zaczekaj i spróbuj ponownie…</string>
     <string name="import_control_invalid_name">Nieprawidłowa nazwa lub plik już istnieje</string>
-    <string name="import_control_done">Importowanie zakończone</string>
+    <string name="import_control_done">Import zakończony</string>
     <!--
     <string name="control_more3"></string>
     <string name="control_more4"></string>
@@ -120,10 +121,10 @@
     <string name="customctrl_mapping">Mapowanie</string>
     <string name="customctrl_orientation">Orientacja</string>
     <string name="customctrl_background_color">Kolor tła</string>
-    <string name="customctrl_corner_radius">Zaokrąglenie narożników</string>
+    <string name="customctrl_corner_radius">Zaokrąglenie rogów</string>
     <string name="customctrl_stroke_width">Szerokość obrysu</string>
     <string name="customctrl_stroke_color">Kolor obrysu</string>
-    <string name="customctrl_button_opacity">Przezroczystość przycisku</string>
+    <string name="customctrl_button_opacity">Przezroczystość przycisków</string>
     <string name="customctrl_addbutton">Dodaj przycisk</string>
     <string name="customctrl_addbutton_drawer">Dodaj panel przycisków</string>
     <string name="customctrl_addbutton_joystick">Dodaj gałkę analogową</string>
@@ -131,31 +132,33 @@
     <string name="customctrl_selectdefault">Wybierz domyślny plik json dla sterowania</string>
     <string name="customctrl_export">Eksportuj ustawienia sterowania</string>
     <string name="main_share_logs">Udostępnij plik dziennika</string>
-    <string name="main_install_jar_file">Wykonaj plik .jar</string>
+    <string name="main_install_jar_file">Uruchom plik .jar</string>
     <string name="main_play">Graj</string>
     <string name="autoram_info_msg">Przydzielono %d MB pamięci</string>
     <string name="mcl_setting_check_libraries">Sprawdź biblioteki po pobraniu</string>
     <string name="mcl_setting_check_libraries_subtitle">Ta opcja wymusza sprawdzanie sumy kontrolnej pliku, jeśli jest dostępna. Umożliwia to wykrycie uszkodzonych pobrań.</string>
-    <string name="dl_library_sha_fail">Biblioteka %s jest uszkodzona i zostanie pobrana ponownie</string>
+    <string name="dl_library_sha_fail">Biblioteka %s jest uszkodzona i zostanie ponownie pobrana</string>
     <string name="dl_library_sha_unknown">Biblioteka %s nie może zostać sprawdzona i należy założyć, że jest dobra</string>
-    <string name="dl_library_sha_pass">Biblioteka %s jest dobra i nadaje się do użytku</string>
+    <string name="dl_library_sha_pass">Biblioteka %s działa poprawnie i nadaje się do użytku</string>
     <string name="mcl_disable_gestures">Wyłącz gesty</string>
-    <string name="mcl_disable_gestures_subtitle">Wyłącza gesty, takie jak \"Przytrzymaj, aby niszczyć blok\" oraz \"Naciśnij, aby postawić blok\".</string>
-    <string name="mcl_disable_swap_hand">Wyłącz podwójne dotknięcie aby zamienić ręce</string>
-    <string name="mcl_disable_swap_hand_subtitle">Wyłącza podwójne kliknięcie elementów na szybkim pasku, aby zamienić go do drugiej ręki.</string>
+    <string name="mcl_disable_gestures_subtitle">Wyłącza gesty, takie jak „Przytrzymaj, aby niszczyć blok” oraz „Naciśnij, aby postawić blok”.</string>
+    <string name="mcl_disable_swap_hand">Wyłącz podwójne dotknięcie, aby zamienić ręce</string>
+    <string name="mcl_disable_swap_hand_subtitle">Wyłącza podwójne kliknięcie przedmiotu na pasku szybkiego dostępu w celu zamiany go w drugiej ręce.</string>
     <string name="mcl_setting_title_mousespeed">Prędkość myszy</string>
     <string name="mcl_setting_subtitle_mousespeed">Zmienia szybkość wirtualnej myszy.</string>
-    <string name="customctrl_passthru">Przekaz sygnału myszy</string>
+    <string name="mcl_setting_title_grab_mouse">Użyj wirtualnego kursora</string>
+    <string name="mcl_setting_subtitle_grab_mouse">Zapewnia, że kursor nie opuszcza obszaru gry. Zapobiega kliknięciu myszką układu sterowania dotykowego.</string>
+    <string name="customctrl_passthru">Przepust myszy</string>
     <string name="customctrl_swipeable">Przesuwalny</string>
     <string name="customctrl_forward_lock">Blokada przodu</string>
     <string name="customctrl_absolute_tracking">Bezwzględne śledzenie palców</string>
     <string name="memory_warning_msg">Bieżąca ilość wolnej pamięci RAM (%d) jest mniejsza od przydzielonej pamięci RAM (%d), co może prowadzić do awarii. Zmień ilość, jeśli gra ulegnie awarii.</string>
     <string name="address_memory_warning_msg">Bieżąca ilość wolnej pamięci RAM (%d) jest niższa od przydzielonej pamięci, (%d), co może prowadzić do awarii. Zmień przydzielenie, jeśli gra ulegnie awarii.</string>
-    <string name="mcl_memory_allocation">Przydział pamięci</string>
-    <string name="mcl_memory_allocation_subtitle">Dostosuj ilość pamięci przydzieloną do Minecrafta.</string>
-    <string name="multirt_runtime_corrupt">Uszkodzone środowisko wykonawcze Java</string>
+    <string name="mcl_memory_allocation">Alokacja pamięci</string>
+    <string name="mcl_memory_allocation_subtitle">Kontroluje ilość pamięci przydzielonej dla gry Minecraft.</string>
+    <string name="multirt_runtime_corrupt">Uszkodzone środowisko uruchomieniowe Java</string>
     <string name="multirt_runtime_incompatiblearch">Niezgodna architektura: %s</string>
-    <string name="multirt_config_title">Środowisko wykonawcze Javy</string>
+    <string name="multirt_config_title">Środowiska uruchomieniowe Java</string>
     <string name="multirt_config_add">Dodaj nową</string>
     <string name="multirt_title">Menedżer środowiska wykonawczego</string>
     <string name="multirt_subtitle">Zarządzaj zainstalowanymi maszynami wirtualnymi Java.</string>
@@ -286,7 +289,7 @@
     <string name="preference_vulkan_driver_system_description">Zmuś launchera do używania sterownika Vulkan zamiast Turnip na procesorach Adreno. Dotyczy tylko Zink i modyfikacji, które używają Vulkan.</string>
     <string name="generic_install">Instaluj</string>
     <string name="generic_apply">Zastosuj</string>
-    <string name="generic_debug">Debug</string>
+    <string name="generic_debug">Debugowanie</string>
     <string name="search_modpack_no_result">Nie znaleziono paczek modów</string>
     <string name="search_modpack_error">Nie udało się znaleźć paczek modów</string>
     <string name="search_modpack_download_error">Nie udało się pobrać metadanych paczki modów</string>
@@ -399,7 +402,7 @@
     <string name="mg_renderer_summary_gl43exts">Może pomagać z crashami związanymi z modami. Wyłącz, jeśli nie jest potrzebne, może powodować crashe.</string>
     <string name="mg_renderer_title_computeShaderext">Udawaj eksperymentalne rozszerzenia Compute Shaderów</string>
     <string name="mg_renderer_summary_computeShaderext">Może pomagać z glitchami związanymi z paczkami shaderów. Wyłącz, jeśli nie jest potrzebne, może powodować crashe.</string>
-    <string name="app_short_name">Ametyst</string>
+    <string name="app_short_name">Amethyst</string>
     <string name="demo_versions_supported">Tylko Vanilla 1.3.1 i nowsze wspierają konta demo</string>
     <string name="demo_unsupported">Profil demo nie jest wspierany</string>
     <string name="change_account">Proszę zmienić konto, aby użyć tej funkcji</string>
